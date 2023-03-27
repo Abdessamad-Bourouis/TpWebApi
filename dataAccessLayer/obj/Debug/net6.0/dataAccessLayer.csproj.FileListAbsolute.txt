@@ -1,0 +1,14 @@
+C:\Users\abourouis\Desktop\BRS\Web\API\dataAccessLayer\obj\Debug\net6.0\dataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\abourouis\Desktop\BRS\Web\API\dataAccessLayer\obj\Debug\net6.0\dataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abourouis\Desktop\BRS\Web\API\dataAccessLayer\obj\Debug\net6.0\dataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\abourouis\Desktop\BRS\Web\API\dataAccessLayer\obj\Debug\net6.0\dataAccessLayer.AssemblyInfo.cs
+C:\Users\abourouis\Desktop\BRS\Web\API\dataAccessLayer\obj\Debug\net6.0\dataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\abourouis\Desktop\BRS\Web\API\dataAccessLayer\bin\Debug\net6.0\dataAccessLayer.deps.json
+C:\Users\abourouis\Desktop\BRS\Web\API\dataAccessLayer\bin\Debug\net6.0\dataAccessLayer.runtimeconfig.json
+C:\Users\abourouis\Desktop\BRS\Web\API\dataAccessLayer\bin\Debug\net6.0\dataAccessLayer.dll
+C:\Users\abourouis\Desktop\BRS\Web\API\dataAccessLayer\bin\Debug\net6.0\dataAccessLayer.pdb
+C:\Users\abourouis\Desktop\BRS\Web\API\dataAccessLayer\obj\Debug\net6.0\dataAccessLayer.dll
+C:\Users\abourouis\Desktop\BRS\Web\API\dataAccessLayer\obj\Debug\net6.0\refint\dataAccessLayer.dll
+C:\Users\abourouis\Desktop\BRS\Web\API\dataAccessLayer\obj\Debug\net6.0\dataAccessLayer.pdb
+C:\Users\abourouis\Desktop\BRS\Web\API\dataAccessLayer\obj\Debug\net6.0\dataAccessLayer.genruntimeconfig.cache
+C:\Users\abourouis\Desktop\BRS\Web\API\dataAccessLayer\obj\Debug\net6.0\ref\dataAccessLayer.dll
